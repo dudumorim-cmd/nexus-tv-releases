@@ -1,0 +1,7 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/dudumorim-cmd/nexus-tv-releases/releases/download/v1.1/nexus-tv-1.1.apk",
+  "sha256": "c46a2206618fe6117eca91ef4822e65f98e22381b70b7f66294a8bbc5298cd1c",
+  "changelog": "Verificacao de atualizacao automatica adicionada em Configuracoes."
+}
