@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "https://github.com/dudumorim-cmd/nexus-tv-releases/releases/download/v1.2/nexus-tv-1.2.apk",
-  "sha256": "a392ce3c25f68a81ad81dded7b3650ee5e09a49c61a987529f176121fbc451f6",
-  "changelog": "Versao de teste do fluxo de atualizacao automatica."
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://github.com/dudumorim-cmd/nexus-tv-releases/releases/download/v1.3/nexus-tv-1.3.apk",
+  "sha256": "53b98570cd7840d42770af2ef28152efade5a049495d490fd0f1dddc0ea347b4",
+  "changelog": "Aviso automatico de atualizacao na tela Home."
 }
