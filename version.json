@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/dudumorim-cmd/nexus-tv-releases/releases/download/v1.4/nexus-tv-1.4.apk",
-  "sha256": "68c9b556a0f7874720bed6ae40bfd7e598555f89667c0bafbb1f85ffe95d4506",
-  "changelog": "Teste do aviso automatico na Home."
+  "versionCode": 12,
+  "versionName": "2.1",
+  "apkUrl": "https://github.com/dudumorim-cmd/nexus-tv-releases/releases/download/v2.1/nexus-tv-2.1.apk",
+  "sha256": "14d0c2a77e485e9f2fddd25dadab289221d06bf3d06bc53c6eb651da730605a0",
+  "changelog": "Correcao do Cine SKY (frame atrasado renderizado em qualquer aparelho, nao so TV Android), tema mais leve/transparente e correcao do botao Voltar do controle remoto na tela cheia."
 }
