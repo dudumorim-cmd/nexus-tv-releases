@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "2.2",
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.2.apk",
-  "sha256": "62f5812e2593090af8f1996ee531a1e470ed90707edde6e795af9748631cfcae",
-  "changelog": "Reconexao de canais ao vivo sem apagar o ultimo quadro: o Nexus mantem a imagem na tela enquanto o stream externo reconecta."
+  "versionCode": 14,
+  "versionName": "2.3",
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.3.apk",
+  "sha256": "3ca601a5b57d42832be7f3d4107d752cab75a4e3c47cc591a03423259e5e1996",
+  "changelog": "Cine SKY agora detecta video sem novos quadros mais cedo e reconecta sem apagar a imagem. Os demais canais mantem o limite mais conservador para evitar reconexoes desnecessarias."
 }
