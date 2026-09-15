@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "2.1",
-  "apkUrl": "https://github.com/dudumorim-cmd/nexus-tv-releases/releases/download/v2.1/nexus-tv-2.1.apk",
-  "sha256": "14d0c2a77e485e9f2fddd25dadab289221d06bf3d06bc53c6eb651da730605a0",
-  "changelog": "Correcao do Cine SKY (frame atrasado renderizado em qualquer aparelho, nao so TV Android), tema mais leve/transparente e correcao do botao Voltar do controle remoto na tela cheia."
+  "versionCode": 13,
+  "versionName": "2.2",
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.2.apk",
+  "sha256": "62f5812e2593090af8f1996ee531a1e470ed90707edde6e795af9748631cfcae",
+  "changelog": "Reconexao de canais ao vivo sem apagar o ultimo quadro: o Nexus mantem a imagem na tela enquanto o stream externo reconecta."
 }
