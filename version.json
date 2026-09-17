@@ -1,7 +1,7 @@
 {
-  "sha256": "068aea4edebc4ac715223364165b5308903347b01b958a0dae925382bc7e52b4",
-  "changelog": "Corrige o foco/cursor voltando para o topo da lista de canais ao sair da tela cheia. A posicao e o foco no canal correto agora sao restaurados explicitamente ao voltar.",
-  "versionName": "2.15",
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.15.apk",
-  "versionCode": 26
+  "sha256": "44171a937c3c43d7e46eb356075ae69f93208a2d1a1808b6005cc0b7dda5a6fe",
+  "changelog": "Muda o comportamento de clique na lista de canais: o primeiro clique agora so seleciona/mostra na previa, sem ir direto para tela cheia. Clicar de novo no canal ja selecionado (ou tocar na previa) que abre em tela cheia.",
+  "versionName": "2.16",
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.16.apk",
+  "versionCode": 27
 }
