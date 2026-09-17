@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "2.5",
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.5.apk",
-  "sha256": "DD3F95FA4031F6416E07A7A13A20365A3ACD3B2588D6F0F03C564E1395AC61C1",
-  "changelog": "Atualizacao de estabilidade, inicializacao e redirecionamento de midia."
+  "changelog": "Correcoes de estabilidade da reproducao ao alternar aplicativos e melhorias de compatibilidade.",
+  "versionCode": 17,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.6.apk",
+  "sha256": "28e0feb9c3309cbd11aae5ae41fe188abeba11045b63819a20870106bb4f6919",
+  "versionName": "2.6"
 }
