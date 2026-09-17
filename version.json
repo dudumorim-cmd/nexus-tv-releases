@@ -1,7 +1,7 @@
 {
-  "changelog": "Correcoes de estabilidade da reproducao ao alternar aplicativos e melhorias de compatibilidade.",
-  "versionCode": 17,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.6.apk",
-  "sha256": "28e0feb9c3309cbd11aae5ae41fe188abeba11045b63819a20870106bb4f6919",
-  "versionName": "2.6"
+  "sha256": "2d732f9e0cea4b1bb870fec274a83599d5f8e6aab3f8e0f78a6fa3b262055564",
+  "changelog": "Corrige a identidade de dispositivo nas requisicoes para o controle de limite nao bloquear a reproducao dos canais.",
+  "versionName": "2.7",
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.7.apk",
+  "versionCode": 18
 }
