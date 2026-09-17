@@ -1,7 +1,7 @@
 {
-  "sha256": "a3e36779067eb8589408338277f53e26544dfae499eea218ca48191341f25bb5",
-  "changelog": "Corrige lentidao e falha ao abrir/trocar de canal: removida a amarracao indevida entre formato de transmissao (m3u8/ts) e origem alternativa no servidor, que fazia toda tentativa de formato alem da primeira falhar sempre.",
-  "versionName": "2.11",
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.11.apk",
-  "versionCode": 22
+  "sha256": "b4c9a726a1571f6c90b50a94ddc7d885ea9278b95e97c769027250517b062644",
+  "changelog": "Pre-resolve os canais da categoria em segundo plano assim que a lista carrega, para trocar de canal ser quase instantaneo quando o canal ja foi pre-resolvido. Reduz a espera de rede que acontecia a cada troca de canal.",
+  "versionName": "2.12",
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.12.apk",
+  "versionCode": 23
 }
