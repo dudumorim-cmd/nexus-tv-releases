@@ -1,7 +1,7 @@
 {
-  "sha256": "2d732f9e0cea4b1bb870fec274a83599d5f8e6aab3f8e0f78a6fa3b262055564",
-  "changelog": "Corrige a identidade de dispositivo nas requisicoes para o controle de limite nao bloquear a reproducao dos canais.",
-  "versionName": "2.7",
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.7.apk",
-  "versionCode": 18
+  "sha256": "a3e36779067eb8589408338277f53e26544dfae499eea218ca48191341f25bb5",
+  "changelog": "Corrige lentidao e falha ao abrir/trocar de canal: removida a amarracao indevida entre formato de transmissao (m3u8/ts) e origem alternativa no servidor, que fazia toda tentativa de formato alem da primeira falhar sempre.",
+  "versionName": "2.11",
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.11.apk",
+  "versionCode": 22
 }
