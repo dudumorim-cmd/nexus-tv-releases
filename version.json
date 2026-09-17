@@ -1,7 +1,7 @@
 {
-  "sha256": "44171a937c3c43d7e46eb356075ae69f93208a2d1a1808b6005cc0b7dda5a6fe",
-  "changelog": "Muda o comportamento de clique na lista de canais: o primeiro clique agora so seleciona/mostra na previa, sem ir direto para tela cheia. Clicar de novo no canal ja selecionado (ou tocar na previa) que abre em tela cheia.",
-  "versionName": "2.16",
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.16.apk",
-  "versionCode": 27
+  "sha256": "B6C15720013AA7D6805F1771B7083CD3D678153C1C54C286E1F06B67B66D1EA0",
+  "changelog": "Reduz consultas de resolucao em segundo plano para diminuir concorrencia com os streams; resolucao do canal ocorre ao selecionar. Video continua direto da origem.",
+  "versionName": "2.17",
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.17.apk",
+  "versionCode": 28
 }
