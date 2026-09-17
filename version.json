@@ -1,7 +1,7 @@
 {
-  "sha256": "b4c9a726a1571f6c90b50a94ddc7d885ea9278b95e97c769027250517b062644",
-  "changelog": "Pre-resolve os canais da categoria em segundo plano assim que a lista carrega, para trocar de canal ser quase instantaneo quando o canal ja foi pre-resolvido. Reduz a espera de rede que acontecia a cada troca de canal.",
-  "versionName": "2.12",
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.12.apk",
-  "versionCode": 23
+  "sha256": "9d25c299922d0121cb030d937027b248fdd775563a997f160913ad12c80d6802",
+  "changelog": "Amplia o pre-carregamento de canais (ate 150 por categoria, atualizado a cada 30s enquanto voce navega) e aquece a conexao de rede com o servidor de video assim que um canal e pre-resolvido, para trocar de canal ficar ainda mais rapido.",
+  "versionName": "2.13",
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.13.apk",
+  "versionCode": 24
 }
