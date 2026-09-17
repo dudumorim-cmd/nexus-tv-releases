@@ -1,7 +1,7 @@
 {
-  "sha256": "B6C15720013AA7D6805F1771B7083CD3D678153C1C54C286E1F06B67B66D1EA0",
-  "changelog": "Reduz consultas de resolucao em segundo plano para diminuir concorrencia com os streams; resolucao do canal ocorre ao selecionar. Video continua direto da origem.",
-  "versionName": "2.17",
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.17.apk",
-  "versionCode": 28
+  "sha256": "A3C696535D989250001F414B703FB6985432A994BFF5596AECE26B8E4E63CF39",
+  "changelog": "Abertura rapida restaurada com cache de um canal a frente; consultas antecipadas param durante a reproducao para reduzir concorrencia com o stream.",
+  "versionName": "2.18",
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.18.apk",
+  "versionCode": 29
 }
