@@ -1,7 +1,7 @@
 {
-  "sha256": "9d25c299922d0121cb030d937027b248fdd775563a997f160913ad12c80d6802",
-  "changelog": "Amplia o pre-carregamento de canais (ate 150 por categoria, atualizado a cada 30s enquanto voce navega) e aquece a conexao de rede com o servidor de video assim que um canal e pre-resolvido, para trocar de canal ficar ainda mais rapido.",
-  "versionName": "2.13",
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.13.apk",
-  "versionCode": 24
+  "sha256": "41e48cc0162a74f2b98af461c99eb16c17f62a384f966253942dc3115887ba11",
+  "changelog": "Novas opcoes em Configuracoes > Reproducao: Decodificador de video (Hardware/Software), Decodificador de audio (Hardware/Software) e Taxa de quadros automatica (AFR). Todas desligadas/no padrao anterior por padrao, so mudam algo se voce ativar.",
+  "versionName": "2.14",
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.14.apk",
+  "versionCode": 25
 }
