@@ -1,7 +1,7 @@
 {
-  "sha256": "41e48cc0162a74f2b98af461c99eb16c17f62a384f966253942dc3115887ba11",
-  "changelog": "Novas opcoes em Configuracoes > Reproducao: Decodificador de video (Hardware/Software), Decodificador de audio (Hardware/Software) e Taxa de quadros automatica (AFR). Todas desligadas/no padrao anterior por padrao, so mudam algo se voce ativar.",
-  "versionName": "2.14",
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.14.apk",
-  "versionCode": 25
+  "sha256": "068aea4edebc4ac715223364165b5308903347b01b958a0dae925382bc7e52b4",
+  "changelog": "Corrige o foco/cursor voltando para o topo da lista de canais ao sair da tela cheia. A posicao e o foco no canal correto agora sao restaurados explicitamente ao voltar.",
+  "versionName": "2.15",
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.15.apk",
+  "versionCode": 26
 }
