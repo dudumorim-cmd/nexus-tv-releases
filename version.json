@@ -1,7 +1,7 @@
 {
-  "sha256": "1E162660EE368B84C4BE5E21A425002D3C8D8C88BB633682E69033A8B0825DA1",
-  "changelog": "Melhorias na reproducao ao vivo, carregamento de canais e estabilidade entre telas; atualizacao do player mantem o video externo.",
-  "versionName": "2.20",
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.20.apk",
-  "versionCode": 31
+  "sha256": "97ab2ca2cad3cd925d5212d9e1ed80f5a113bf822c4f5a4de0ebd8223016d2c1",
+  "changelog": "Ao reconectar apos um engasgo, o player reaproveita o endereco de video ja resolvido em vez de refazer autenticacao+catalogo+redirecionamento no servidor a cada tentativa -- reduz a carga no servidor bem na hora de um travamento, quando outro aparelho pode estar competindo pelos mesmos recursos.",
+  "versionName": "2.28",
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.28.apk",
+  "versionCode": 39
 }
