@@ -1,7 +1,7 @@
 {
-  "sha256": "97ab2ca2cad3cd925d5212d9e1ed80f5a113bf822c4f5a4de0ebd8223016d2c1",
-  "changelog": "Ao reconectar apos um engasgo, o player reaproveita o endereco de video ja resolvido em vez de refazer autenticacao+catalogo+redirecionamento no servidor a cada tentativa -- reduz a carga no servidor bem na hora de um travamento, quando outro aparelho pode estar competindo pelos mesmos recursos.",
-  "versionName": "2.28",
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.28.apk",
-  "versionCode": 39
+  "sha256": "9150d6e388fb792de7b01506a743321fd9599912b42849825f73c88c89b8cf1f",
+  "changelog": "Quando todos os formatos de um canal falham (ex: outro aparelho ocupando a mesma linha do provedor no momento), o app agora avisa \"Canal ocupado no momento. Tentando novamente...\" e tenta de novo sozinho, em vez de so ficar travado/mudo sem explicacao.",
+  "versionName": "2.29",
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.29.apk",
+  "versionCode": 40
 }
