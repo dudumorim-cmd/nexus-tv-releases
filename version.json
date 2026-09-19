@@ -1,7 +1,7 @@
 {
-  "sha256": "cfabf3ba45e7540b8418386f4934c90c9cdd18e5e6261e102ba1d13e01521ea5",
-  "changelog": "Quando um canal que ja estava funcionando cai por um instante, o app agora tenta reconectar na mesma fonte (ate 2x) antes de trocar de candidata -- reconexao mais rapida e com menos chance de pular pra um formato pior. Inclui tambem a melhoria da 2.29 (aviso + nova tentativa quando o canal fica ocupado).",
-  "versionName": "2.30",
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.30.apk",
-  "versionCode": 41
+  "sha256": "434e74ecf6918403385876b194965c72412b253f64b83b094ebc3ad8159d68e8",
+  "changelog": "Canais do App (Eppi) agora tem uma segunda conta/linha de reserva no catalogo. O servidor ja alterna entre elas sozinho para qualquer app; esta versao faz o Nexus tambem oferecer a segunda linha como candidata propria ao reconectar, reduzindo ainda mais o tempo de troca quando a linha principal esta ocupada.",
+  "versionName": "2.31",
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.31.apk",
+  "versionCode": 42
 }
