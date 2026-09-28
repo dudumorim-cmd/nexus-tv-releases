@@ -1,8 +1,8 @@
 {
-  "versionName": "2.33",
-  "versionCode": 44,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.33.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.33.apk",
-  "sha256": "4f168ab0ab13ec7e40b32b911753faf0e5370cb1ad35c6157cde07f3754b950a",
-  "notes": "Atualizacao manual renova canais, filmes e series."
+  "versionName": "2.34",
+  "versionCode": 45,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.34.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.34.apk",
+  "sha256": "17e388c26d59de9081e032abb51eb481c4976a64c34188a94edda37b3d48998a",
+  "notes": "Atualizacao completa de canais, filmes e series com timeout ampliado."
 }
