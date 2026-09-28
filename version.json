@@ -1,7 +1,8 @@
 {
-  "sha256": "b0e76e05c52ccaff51f5b3d8cd9f1eec412eb39cbfb896f17aa2c40958ca2b0c",
-  "changelog": "Nexus TV 2.32: recuperacao de reproducao ao vivo, identidade do aparelho, controles do player e ajustes de estabilidade.",
-  "versionName": "2.32",
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.32.apk",
-  "versionCode": 43
+  "versionName": "2.33",
+  "versionCode": 44,
+  "apkUrl": "https://github.com/dudumorim-cmd/nexus-tv-releases/releases/download/v2.33/nexus-tv-2.33.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.33.apk",
+  "sha256": "4f168ab0ab13ec7e40b32b911753faf0e5370cb1ad35c6157cde07f3754b950a",
+  "notes": "Atualizacao manual renova canais, filmes e series."
 }
