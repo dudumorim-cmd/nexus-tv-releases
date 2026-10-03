@@ -1,9 +1,9 @@
 {
-  "versionName": "2.44",
-  "versionCode": 55,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.44.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.44.apk",
-  "sha256": "6657ed194cd764f305e73ac790ad41f1888fe557748674c8be0f57ae738621ad",
-  "changelog": "Visual novo: icones padronizados em todo o app (no lugar dos emojis), textos maiores e mais legiveis, formato da transmissao agora Automatico e mensagens de erro mais claras.",
-  "notes": "Icones novos, textos mais legiveis e formato automatico."
+  "versionName": "2.45",
+  "versionCode": 56,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.45.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.45.apk",
+  "sha256": "3c0b62360953b4730e27b909dbcff7276f3347b96819e84fad22e9fcea649b17",
+  "changelog": "Design novo: inicio com destaque em tela cheia, faixa Ao vivo agora, barra lateral, TV ao vivo com o canal tocando ao fundo e paginas de filmes e series no estilo cinema.",
+  "notes": "Novo visual do NEXUS."
 }
