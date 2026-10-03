@@ -1,9 +1,9 @@
 {
-  "versionName": "2.42",
-  "versionCode": 53,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.42.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.42.apk",
-  "sha256": "cbf4546eea11bb6686ddffbf6a8ecb7391fe85cb75b12c5408b784961f938941",
-  "changelog": "Filmes 4K agora abrem na versao comum em aparelhos que nao suportam 4K HEVC, tambem no leitor externo (VLC). Leitor externo funcionando em filmes, series e canais. Senha fora do backup do Android.",
-  "notes": "4K compativel tambem no leitor externo; leitor externo corrigido."
+  "versionName": "2.43",
+  "versionCode": 54,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.43.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.43.apk",
+  "sha256": "46c0944462132ec1a19da56a4235636b2ea9996b22bf7576c03bc913feaad875",
+  "changelog": "Canais do BTV abrindo na hora: o app pede o formato HLS primeiro e reconhece as fontes novas do BTV. Filmes 4K na versao compativel tambem no leitor externo.",
+  "notes": "Canais BTV abrindo na hora (HLS primeiro)."
 }
