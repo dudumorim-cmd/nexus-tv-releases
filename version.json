@@ -1,9 +1,9 @@
 {
-  "versionName": "2.45",
-  "versionCode": 56,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.45.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.45.apk",
-  "sha256": "3c0b62360953b4730e27b909dbcff7276f3347b96819e84fad22e9fcea649b17",
-  "changelog": "Design novo: inicio com destaque em tela cheia, faixa Ao vivo agora, barra lateral, TV ao vivo com o canal tocando ao fundo e paginas de filmes e series no estilo cinema.",
-  "notes": "Novo visual do NEXUS."
+  "versionName": "2.46",
+  "versionCode": 57,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.46.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.46.apk",
+  "sha256": "451aa290643967279f0a519012254720ddfbe25c10def87bdb32a256e699e59a",
+  "changelog": "Player novo: canal ao vivo e filmes com visual de cinema, botoes grandes, programacao em destaque, barra de progresso com brilho e horario de termino do filme.",
+  "notes": "Player redesenhado."
 }
