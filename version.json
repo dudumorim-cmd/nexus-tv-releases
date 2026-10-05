@@ -1,9 +1,9 @@
 {
-  "versionName": "2.47",
-  "versionCode": 58,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.47.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.47.apk",
-  "sha256": "ce1b2aef982639a938e3f5b5bb86dcf2e43548eaecf0413ae63367c53910170d",
-  "changelog": "Player no estilo Netflix: tela limpa, controles sem moldura, barra fina de progresso e atalhos em texto (Canais, Audio e legendas, Favoritar, Fonte).",
-  "notes": "Player estilo Netflix."
+  "versionName": "2.48",
+  "versionCode": 59,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.48.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.48.apk",
+  "sha256": "4b4022bbf8dc9f819c97d831659f32c4bc0cb66a0addc8c73a966900742a5379",
+  "changelog": "Guia de canais na tela (setas para cima/baixo), proximo episodio automatico, pular abertura, lista de episodios no player, gestos no celular (toque duplo, brilho, volume, pinca) e tela de abertura com o nome do canal/filme.",
+  "notes": "Player com guia de canais e proximo episodio."
 }
