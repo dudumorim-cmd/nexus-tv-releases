@@ -1,9 +1,9 @@
 {
-  "versionName": "2.48",
-  "versionCode": 59,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.48.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.48.apk",
-  "sha256": "4b4022bbf8dc9f819c97d831659f32c4bc0cb66a0addc8c73a966900742a5379",
-  "changelog": "Guia de canais na tela (setas para cima/baixo), proximo episodio automatico, pular abertura, lista de episodios no player, gestos no celular (toque duplo, brilho, volume, pinca) e tela de abertura com o nome do canal/filme.",
-  "notes": "Player com guia de canais e proximo episodio."
+  "versionName": "2.49",
+  "versionCode": 60,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.49.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.49.apk",
+  "sha256": "9918c25c338980e6c899ff697bb6c8942f7b9a0ca6a796177fc1114387428d88",
+  "changelog": "Guia de canais na tela cheia agora tem as categorias no topo: troque de categoria sem sair do video.",
+  "notes": "Troca de categoria dentro do guia de canais."
 }
