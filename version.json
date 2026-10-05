@@ -1,9 +1,9 @@
 {
-  "versionName": "2.49",
-  "versionCode": 60,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.49.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.49.apk",
-  "sha256": "9918c25c338980e6c899ff697bb6c8942f7b9a0ca6a796177fc1114387428d88",
-  "changelog": "Guia de canais na tela cheia agora tem as categorias no topo: troque de categoria sem sair do video.",
+  "versionName": "2.50",
+  "versionCode": 61,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.50.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.50.apk",
+  "sha256": "8874f1bb6162b57344edb6f70478fa5b89f2f90aafeef85f2a46bad4e825af26",
+  "changelog": "Guia de canais na tela cheia com as categorias no topo (troque de categoria sem sair do video) e nomes de categoria mais limpos.",
   "notes": "Troca de categoria dentro do guia de canais."
 }
