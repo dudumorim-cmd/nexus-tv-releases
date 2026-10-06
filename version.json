@@ -1,9 +1,9 @@
 {
-  "changelog": "Correcao dos canais: restaura TS, HLS e fonte bruta nas duas fontes reais, com cache da fonte que funcionou.",
-  "versionCode": 65,
-  "sha256": "3eb01b52898e44e6c28846bc0b5cfb3207e165ed391a69de8a25f2d4d6d62a92",
+  "versionName": "2.55",
+  "changelog": "Troca de canal mais rapida: cache observavel entrega a URL resolvida ao player assim que fica pronta, sem repetir a rota generica.",
+  "versionCode": 66,
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.55.apk",
   "notes": "Testes unitarios e build aprovados.",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.54.apk",
-  "versionName": "2.54",
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.54.apk"
+  "sha256": "f648e9dd488c15b1c944c908214e6b8e24b81cff8f3996f13cf2c3ccb1886260",
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.55.apk"
 }
