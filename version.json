@@ -1,9 +1,9 @@
 {
-  "versionName": "2.55",
-  "changelog": "Troca de canal mais rapida: cache observavel entrega a URL resolvida ao player assim que fica pronta, sem repetir a rota generica.",
-  "versionCode": 66,
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.55.apk",
-  "notes": "Testes unitarios e build aprovados.",
-  "sha256": "f648e9dd488c15b1c944c908214e6b8e24b81cff8f3996f13cf2c3ccb1886260",
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.55.apk"
+  "versionName": "2.56",
+  "versionCode": 67,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.56.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.56.apk",
+  "sha256": "2110cbda8a50e000e28fed638b872f866060376011c55f3c836dc514617b505c",
+  "changelog": "Filmes e series travam menos: o player carrega bem mais a frente (ate 6 minutos) para aguentar os trechos lentos do servidor. Inclui as correcoes de canais da 2.55.",
+  "notes": "Buffer maior para filmes + correcoes da 2.55."
 }
