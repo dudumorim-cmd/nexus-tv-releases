@@ -1,9 +1,9 @@
 {
-  "versionName": "2.57",
-  "versionCode": 68,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.57.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.57.apk",
-  "sha256": "c296ffbe4dd25d8e1a0663f2d0b9cc3cc1dc4e1444336af3e6115fa724409926",
-  "changelog": "Filmes que so existem em 4K HEVC 10-bit nao aparecem mais em aparelhos que nao conseguem toca-los. Filmes nao desistem mais no meio de um trecho lento do servidor.",
-  "notes": "Filtro de 4K por aparelho."
+  "versionName": "2.58",
+  "versionCode": 69,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.58.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.58.apk",
+  "sha256": "290c57a3b1a9dea9fd06193f74b6eed321177ecf7f7ff4bd2c1f55ae0a96ccdb",
+  "changelog": "TV ao vivo: canais da BTV e da Eppi agora ficam separados. Um seletor BTV | Eppi no topo da lista (e no guia do player) mostra so as categorias e os canais daquele provedor.",
+  "notes": "Lista de canais separada por provedor."
 }
