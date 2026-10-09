@@ -1,9 +1,9 @@
 {
-  "versionName": "2.58",
-  "versionCode": 69,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.58.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.58.apk",
-  "sha256": "290c57a3b1a9dea9fd06193f74b6eed321177ecf7f7ff4bd2c1f55ae0a96ccdb",
-  "changelog": "TV ao vivo: canais da BTV e da Eppi agora ficam separados. Um seletor BTV | Eppi no topo da lista (e no guia do player) mostra so as categorias e os canais daquele provedor.",
-  "notes": "Lista de canais separada por provedor."
+  "versionName": "2.59",
+  "versionCode": 70,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.59.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.59.apk",
+  "sha256": "364ce204439d7867012d80813847647fc908241979a6e22c95a67f78614c6bb9",
+  "changelog": "TV ao vivo: no celular, tocar em TV no menu nao abre mais o teclado da busca. No controle remoto, a lista de canais nao pula mais de volta para o canal que esta tocando enquanto voce desce pela lista.",
+  "notes": "Foco da TV ao vivo."
 }
