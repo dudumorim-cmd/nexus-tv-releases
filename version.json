@@ -1,9 +1,9 @@
 {
-  "versionName": "2.59",
-  "versionCode": 70,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.59.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.59.apk",
-  "sha256": "364ce204439d7867012d80813847647fc908241979a6e22c95a67f78614c6bb9",
-  "changelog": "TV ao vivo: no celular, tocar em TV no menu nao abre mais o teclado da busca. No controle remoto, a lista de canais nao pula mais de volta para o canal que esta tocando enquanto voce desce pela lista.",
-  "notes": "Foco da TV ao vivo."
+  "versionName": "2.60",
+  "versionCode": 71,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.60.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.60.apk",
+  "sha256": "db1d4e1f34ad92b18ffb88b444d3f33078d7e0c39531c0921abcb66d875d3ffe",
+  "changelog": "Atualizacoes: se o aparelho nao conseguir acessar o GitHub, o app busca e baixa a versao nova pelo servidor do Nexus.",
+  "notes": "Espelho de atualizacao no servidor Nexus."
 }
