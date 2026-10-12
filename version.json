@@ -1,9 +1,9 @@
 {
-  "versionName": "2.62",
-  "versionCode": 73,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.62.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.62.apk",
-  "sha256": "8122eeb41c26953d11b1fd018fa06f32e878ae04052d50247dd658b9bc436668",
-  "changelog": "Canais que paravam e ficavam voltando para tras (mesmo trecho repetindo) agora passam para outra fonte do mesmo canal.",
-  "notes": "Fonte HLS encerrada conta como falha."
+  "versionName": "2.63",
+  "versionCode": 74,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.63.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.63.apk",
+  "sha256": "04361b766fccdd18834c06adbf6ad3799fedb2f947e1baca4f3f0aaf9ded0c29",
+  "changelog": "Lista de canais se atualiza sozinha (canais fora do ar somem). Canal abre uma vez so, sem reabrir. Canais BTV vao direto no formato certo. Tempo de troca de canal passa a ser medido.",
+  "notes": "Auditoria 12/10."
 }
