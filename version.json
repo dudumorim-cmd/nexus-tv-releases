@@ -1,9 +1,9 @@
 {
-  "versionName": "2.63",
-  "versionCode": 74,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.63.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.63.apk",
-  "sha256": "04361b766fccdd18834c06adbf6ad3799fedb2f947e1baca4f3f0aaf9ded0c29",
-  "changelog": "Lista de canais se atualiza sozinha (canais fora do ar somem). Canal abre uma vez so, sem reabrir. Canais BTV vao direto no formato certo. Tempo de troca de canal passa a ser medido.",
-  "notes": "Auditoria 12/10."
+  "versionName": "2.64",
+  "versionCode": 75,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.64.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.64.apk",
+  "sha256": "dc99af29e0b350bb3e434dd7c8e83569f14329c1c245e37dbac48c100c569f86",
+  "changelog": "Servidor do Nexus responde ate 3 vezes mais rapido: login, lista de canais, filmes e guia de programacao.",
+  "notes": "Funcao junto do banco (us-east-2)."
 }
