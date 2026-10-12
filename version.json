@@ -1,9 +1,9 @@
 {
-  "versionName": "2.64",
-  "versionCode": 75,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.64.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.64.apk",
-  "sha256": "dc99af29e0b350bb3e434dd7c8e83569f14329c1c245e37dbac48c100c569f86",
-  "changelog": "Servidor do Nexus responde ate 3 vezes mais rapido: login, lista de canais, filmes e guia de programacao.",
-  "notes": "Funcao junto do banco (us-east-2)."
+  "versionName": "2.65",
+  "versionCode": 76,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.65.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.65.apk",
+  "sha256": "93f7000c84681ccd72782c5042c9d7c643992add15df99a56fcdd78ae0be941b",
+  "changelog": "Controle remoto: setas trocam de canal na TV ao vivo, OK abre o guia, Play/Pause e avancar/voltar funcionam nos filmes, setas avancam e voltam o filme, Voltar no Inicio pergunta antes de sair, numeros digitam o PIN, telas abrem com o item certo selecionado.",
+  "notes": "Auditoria do controle remoto 12/10."
 }
