@@ -1,9 +1,9 @@
 {
-  "versionName": "2.61",
-  "versionCode": 72,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.61.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.61.apk",
-  "sha256": "c5c44280fe1d8da3d83c1afd16fef1d09d610e9779fd700f152d8b12cdaab6e9",
-  "changelog": "Troca de canais mais rapida: os canais vizinhos ja ficam prontos para o CH+/CH-, e os canais da BTV abrem direto na fonte.",
-  "notes": "Zapping mais rapido."
+  "versionName": "2.62",
+  "versionCode": 73,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.62.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.62.apk",
+  "sha256": "8122eeb41c26953d11b1fd018fa06f32e878ae04052d50247dd658b9bc436668",
+  "changelog": "Canais que paravam e ficavam voltando para tras (mesmo trecho repetindo) agora passam para outra fonte do mesmo canal.",
+  "notes": "Fonte HLS encerrada conta como falha."
 }
