@@ -1,9 +1,9 @@
 {
-  "versionName": "2.65",
-  "versionCode": 76,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.65.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.65.apk",
-  "sha256": "93f7000c84681ccd72782c5042c9d7c643992add15df99a56fcdd78ae0be941b",
-  "changelog": "Controle remoto: setas trocam de canal na TV ao vivo, OK abre o guia, Play/Pause e avancar/voltar funcionam nos filmes, setas avancam e voltam o filme, Voltar no Inicio pergunta antes de sair, numeros digitam o PIN, telas abrem com o item certo selecionado.",
-  "notes": "Auditoria do controle remoto 12/10."
+  "versionName": "2.66",
+  "versionCode": 77,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.66.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.66.apk",
+  "sha256": "98a29c9fc7ea9737bfa8b7ab7a20389a24e42e534569f7016c5ab5bd65c41bf2",
+  "changelog": "Correcao da reproducao BTV: o cache agora preserva a rota autenticada do Nexus e nao grava links diretos expirados do provedor.",
+  "notes": "Teste real no BTV11: canais 157 e 160 abriram e continuaram recebendo quadros."
 }
