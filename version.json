@@ -1,9 +1,9 @@
 {
-  "versionName": "2.66",
-  "versionCode": 77,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.66.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.66.apk",
-  "sha256": "98a29c9fc7ea9737bfa8b7ab7a20389a24e42e534569f7016c5ab5bd65c41bf2",
-  "changelog": "Correcao da reproducao BTV: o cache agora preserva a rota autenticada do Nexus e nao grava links diretos expirados do provedor.",
-  "notes": "Teste real no BTV11: canais 157 e 160 abriram e continuaram recebendo quadros."
+  "versionName": "2.67",
+  "versionCode": 78,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.67.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.67.apk",
+  "sha256": "1976b538a12f28f52d05e0e50eff881c748097b0526607abfc34850cea1908f2",
+  "changelog": "Troca de canal mais rapida: os canais da categoria ficam prontos para abrir direto na fonte (BTV e Eppi), sem passar pelo servidor.",
+  "notes": "Link direto de volta (2.66 passava pelo servidor), cache de 10 min, pre-carregamento de ate 300 canais."
 }
