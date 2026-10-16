@@ -1,9 +1,9 @@
 {
-  "versionName": "2.68",
-  "versionCode": 79,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.68.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.68.apk",
-  "sha256": "1764698ec27b4a8aae702969344186a72ce9e41cb7e2972832f046c8b422d1b5",
-  "changelog": "O app passa a informar quando o canal trava, para acompanharmos a qualidade de cada provedor.",
-  "notes": "Telemetria de travadas."
+  "versionName": "2.69",
+  "versionCode": 80,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.69.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.69.apk",
+  "sha256": "6fcae78dc2a707beefa4b92415a5213a4da6fa5943581add7ffcba747d1a983c",
+  "changelog": "Filmes e series se atualizam sozinhos uma vez por dia (antes so com o botao Recarregar), tambem com o app aberto por dias.",
+  "notes": "Atualizacao automatica do catalogo."
 }
