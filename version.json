@@ -1,9 +1,9 @@
 {
-  "versionName": "2.72",
-  "versionCode": 83,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.72.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.72.apk",
-  "sha256": "bd85eb39b48e061c773b7b240483060c7634aa8a602d15158aeaedcd3519462b",
-  "changelog": "Cartoon Network e outros canais com audio fora de sincronia voltam a abrir; guia de programacao com agora/a seguir e grade (botao Guia); lembretes; horario em 24 h; carregando nao cobre mais o video.",
-  "notes": "Correcao de canais que nao abriam e guia novo."
+  "versionName": "2.73",
+  "versionCode": 84,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.73.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.73.apk",
+  "sha256": "2000844019a023455206eece6bbf6b4faca8174728fac7ed5aa298f9b009b87e",
+  "changelog": "Cartoon Network e canais com audio fora de sincronia abrem e tocam sem travadas; guia de programacao com agora/a seguir e grade (botao Guia); horario em 24 h.",
+  "notes": "Correcao das travadas de audio da BTV."
 }
