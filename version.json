@@ -1,9 +1,9 @@
 {
-  "versionName": "2.69",
-  "versionCode": 80,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.69.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.69.apk",
-  "sha256": "6fcae78dc2a707beefa4b92415a5213a4da6fa5943581add7ffcba747d1a983c",
-  "changelog": "Filmes e series se atualizam sozinhos uma vez por dia (antes so com o botao Recarregar), tambem com o app aberto por dias.",
-  "notes": "Atualizacao automatica do catalogo."
+  "versionName": "2.71",
+  "versionCode": 82,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.71.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.71.apk",
+  "sha256": "59c591032a4fa515930714a4155608a1a9f8d7de990da267a2f763f3bec8ad16",
+  "changelog": "Mais seguranca: senha e PIN guardados cifrados, atualizacao so instala arquivo conferido, conexao com o Nexus sempre protegida; senhas com simbolos funcionam; telas de erro mais claras.",
+  "notes": "Correcoes da auditoria de 17/10."
 }
