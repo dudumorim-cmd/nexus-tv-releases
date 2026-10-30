@@ -1,9 +1,9 @@
 {
-  "versionName": "2.73",
-  "versionCode": 84,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.73.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.73.apk",
-  "sha256": "2000844019a023455206eece6bbf6b4faca8174728fac7ed5aa298f9b009b87e",
-  "changelog": "Cartoon Network e canais com audio fora de sincronia abrem e tocam sem travadas; guia de programacao com agora/a seguir e grade (botao Guia); horario em 24 h.",
-  "notes": "Correcao das travadas de audio da BTV."
+  "versionName": "2.75",
+  "versionCode": 86,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.75.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.75.apk",
+  "sha256": "03d57693ee0efe86191bfd7ac03405cd63c736e4f38688a1c5df4a014bb33144",
+  "changelog": "Nova lista de canais Evo com aba propria em TV ao vivo.",
+  "notes": "Adiciona a lista Evo."
 }
