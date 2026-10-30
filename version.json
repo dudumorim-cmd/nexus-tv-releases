@@ -1,9 +1,9 @@
 {
-  "versionName": "2.75",
-  "versionCode": 86,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.75.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.75.apk",
-  "sha256": "03d57693ee0efe86191bfd7ac03405cd63c736e4f38688a1c5df4a014bb33144",
-  "changelog": "Nova lista de canais Evo com aba propria em TV ao vivo.",
-  "notes": "Adiciona a lista Evo."
+  "versionName": "2.76",
+  "versionCode": 87,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.76.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.76.apk",
+  "sha256": "dcbe7ec121ab9c2b77fe8dc7bd13238628537c51c5efd02129074b6b37e7031f",
+  "changelog": "Nova lista de canais Evo e atualizacao sem precisar rebaixar os canais e filmes.",
+  "notes": "Corrige o rebaixar do catalogo ao trocar de servidor; mantem a lista Evo."
 }
