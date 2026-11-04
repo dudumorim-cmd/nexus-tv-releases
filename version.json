@@ -1,9 +1,9 @@
 {
-  "versionName": "2.84",
-  "versionCode": 95,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.84.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.84.apk",
-  "sha256": "2f52b249d63233893ab35945fda08e02262f22b6cfdedc0e306d24687baded4f",
-  "changelog": "App abre direto sem tela de carregamento; atualização de canais roda em background.",
-  "notes": "Splash de 6 etapas removido nas atualizações; catálogo atualiza silenciosamente."
+  "versionName": "2.85",
+  "versionCode": 96,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.85.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.85.apk",
+  "sha256": "5da6c468b26465cbac9b23caffdcbb01314fcd376150838ddb880bee489b4647",
+  "changelog": "App abre direto na tela principal sem nenhuma tela de carregamento.",
+  "notes": "Splash eliminado completamente; catalogo sincroniza em background."
 }
