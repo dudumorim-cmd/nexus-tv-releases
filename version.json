@@ -1,9 +1,9 @@
 {
-  "changelog": "Correção de atualização do catálogo e recuperação de conta quando a sessão expirar.",
-  "directUrl": "https://github.com/dudumorim-cmd/nexus-tv-releases/releases/download/nexus-tv-2.80-account-recovery/app-release.apk",
-  "sha256": "62DB8925D4B331D3241B1D4A650D9539F2F91E03BD405E2145034C16AFF66C8D",
-  "versionName": "2.80",
-  "apkUrl": "https://github.com/dudumorim-cmd/nexus-tv-releases/releases/download/nexus-tv-2.80-account-recovery/app-release.apk",
-  "notes": "A versão 2.80 corrige o aviso de versão desatualizado e permite renovar a sessão do Nexus.",
-  "versionCode": 91
+  "versionName": "2.83",
+  "versionCode": 94,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.83.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.83.apk",
+  "sha256": "12f9ad07c62ef3e933983d3cf2c21f9236d3daab548e63a92d769bfd8ab51262",
+  "changelog": "335 canais UniTV integrados com sync automatico; canais aparecem na aba UniTV sem precisar reabrir o app.",
+  "notes": "Integracao UniTV com sync automatico via edge function."
 }
