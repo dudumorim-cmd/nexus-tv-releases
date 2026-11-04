@@ -1,9 +1,9 @@
 {
-  "versionName": "2.93",
-  "versionCode": 104,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.93.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.93.apk",
-  "sha256": "a1f530db957dc6aa7b22104bb5633795b16e9d85445de6fe681df648cb00bdc5",
-  "changelog": "Redesign responsivo completo: bottom nav 5 itens no celular, hero compacto 160dp, posters menores, paddings adaptados, safe areas com WindowInsets. TV mantém rail lateral e layout original.",
-  "notes": "Fix botões desaparecendo no celular (hero weight→fixed, LazyColumn weight→1f, 7→5 nav items, navigationBarsPadding). BrowseScreen header responsivo."
+  "versionName": "2.94",
+  "versionCode": 105,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.94.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.94.apk",
+  "sha256": "f7f0157e0daed4eec80577b879a8e88b0bdfba0bfdaa3880ca581ff552f54e26",
+  "changelog": "Redesign premium phone: bottom nav animada com accent dourado, hero com poster lateral, posters 72x108, LiveCard compacto, paddings 16dp. TV inalterada.",
+  "notes": "Phone: top bar minimalista (logo N + plano + hora), hero 140dp com poster+metadata lado a lado, botões 36dp, rows com weight(1f), BrowseScreen header adaptado."
 }
