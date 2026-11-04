@@ -1,9 +1,9 @@
 {
-  "versionName": "2.92",
-  "versionCode": 103,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.92.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.92.apk",
-  "sha256": "909ac3be4e02f5c29452a8369ff9bf3b74fb31f2e610cf4c18b831bd7abfb6da",
-  "changelog": "Design premium na aba Jogos do Dia: cards com vidro, gradiente dourado/teal, VS estilizado, botões com gradient, layout otimizado para celular.",
-  "notes": "Cores NexusAccent/NexusAccentSecondary no lugar do verde, cards com borda sutil, header com gradient, pill options, legenda com dots coloridos."
+  "versionName": "2.93",
+  "versionCode": 104,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.93.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.93.apk",
+  "sha256": "a1f530db957dc6aa7b22104bb5633795b16e9d85445de6fe681df648cb00bdc5",
+  "changelog": "Redesign responsivo completo: bottom nav 5 itens no celular, hero compacto 160dp, posters menores, paddings adaptados, safe areas com WindowInsets. TV mantém rail lateral e layout original.",
+  "notes": "Fix botões desaparecendo no celular (hero weight→fixed, LazyColumn weight→1f, 7→5 nav items, navigationBarsPadding). BrowseScreen header responsivo."
 }
