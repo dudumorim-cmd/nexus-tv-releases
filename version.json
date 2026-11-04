@@ -1,9 +1,9 @@
 {
-  "versionName": "2.88",
-  "versionCode": 99,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.88.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.88.apk",
-  "sha256": "ba2ecb55c8a5a86c54ed35e3f71851bf31c8ac238dcf9b209ab02698dbea5740",
-  "changelog": "Chip UniTV visivel: lista de provedores agora rola horizontalmente.",
-  "notes": "Row de provedores trocada por LazyRow para caber BTV, Eppi, Evo e UniTV."
+  "versionName": "2.89",
+  "versionCode": 100,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.89.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.89.apk",
+  "sha256": "044bceffe2479df35b0776cf28e1fe10b271dc5194480c7923fd1fa5d464ef87",
+  "changelog": "Guia de Jogos: nova aba com partidas do dia, horarios, times e links diretos.",
+  "notes": "Puxa jogos da categoria UniTV (id 2), parseia nomes HH:mm TIMEA X TIMEB N, agrupa por partida e mostra cards com opcoes de transmissao."
 }
