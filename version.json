@@ -1,9 +1,9 @@
 {
-  "versionName": "2.94",
-  "versionCode": 105,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.94.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.94.apk",
-  "sha256": "f7f0157e0daed4eec80577b879a8e88b0bdfba0bfdaa3880ca581ff552f54e26",
-  "changelog": "Redesign premium phone: bottom nav animada com accent dourado, hero com poster lateral, posters 72x108, LiveCard compacto, paddings 16dp. TV inalterada.",
-  "notes": "Phone: top bar minimalista (logo N + plano + hora), hero 140dp com poster+metadata lado a lado, botões 36dp, rows com weight(1f), BrowseScreen header adaptado."
+  "versionName": "2.95",
+  "versionCode": 106,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.95.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.95.apk",
+  "sha256": "2bf588ab3acdc16c0b0945b7620a7482ad8e079950dd3a0d619ba5103657e880",
+  "changelog": "Fix Tela cheia no celular (fullscreen caía no layout TV); TV ao vivo redesign phone: mini player 180dp, info compacta, lista vertical empilhada.",
+  "notes": "RailScaffold corrigido: showRail=false no phone agora renderiza fullscreen sem bottom bar. LiveBrowsePane: layout vertical no phone (player+info+chips+lista)."
 }
