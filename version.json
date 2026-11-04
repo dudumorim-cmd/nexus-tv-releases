@@ -1,9 +1,9 @@
 {
-  "versionName": "2.89",
-  "versionCode": 100,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.89.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.89.apk",
-  "sha256": "044bceffe2479df35b0776cf28e1fe10b271dc5194480c7923fd1fa5d464ef87",
-  "changelog": "Guia de Jogos: nova aba com partidas do dia, horarios, times e links diretos.",
-  "notes": "Puxa jogos da categoria UniTV (id 2), parseia nomes HH:mm TIMEA X TIMEB N, agrupa por partida e mostra cards com opcoes de transmissao."
+  "versionName": "2.90",
+  "versionCode": 101,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.90.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.90.apk",
+  "sha256": "3f7ec512aa000cbacd23cd05509968ac9a5d101574b6e691d3722117c1b4cc45",
+  "changelog": "Jogos do Dia: corrige categoria (17 Eppi) e parser de nomes sem numero final.",
+  "notes": "Categoria correta, regex sem trailing number, layout compacto com foco D-pad."
 }
