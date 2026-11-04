@@ -1,9 +1,9 @@
 {
-  "versionName": "2.86",
-  "versionCode": 97,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.86.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.86.apk",
-  "sha256": "0da7780441e49ed7160cde72b03827e4578cfa27afc4e23683f6449b8c7b375c",
-  "changelog": "Canais ja vem dentro do APK; app abre com todos os canais prontos.",
-  "notes": "Catalogo embutido nos assets: 4136 canais, 5000 filmes, 5000 series carregam sem rede."
+  "versionName": "2.87",
+  "versionCode": 98,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.87.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.87.apk",
+  "sha256": "bc8fa56be88893acc139dc83793440765414af7b563fe18af0179e593ef0c999",
+  "changelog": "Aba UniTV adicionada na TV ao vivo com 335 canais.",
+  "notes": "UniTV aparece como provedor na tela de canais ao lado de BTV, Eppi e Evo."
 }
