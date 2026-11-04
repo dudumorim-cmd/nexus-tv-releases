@@ -1,9 +1,9 @@
 {
-  "versionName": "2.91",
-  "versionCode": 102,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.91.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.91.apk",
-  "sha256": "ddf52c7cd9d82a92d1b270f4fce1af41ce66a33250f7f1dc8483edeadffc1dfa",
-  "changelog": "Navegação responsiva: barra inferior no celular, rail lateral no box. Jogos agrupados por horário (Manhã/Tarde/Noite). Layout adaptado para telas menores.",
-  "notes": "Rail → bottom bar em telas < 600dp. SportsGuidePane com agrupamento por slot, badges menores no celular, botão voltar, scroll na tela de detalhe."
+  "versionName": "2.92",
+  "versionCode": 103,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.92.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.92.apk",
+  "sha256": "909ac3be4e02f5c29452a8369ff9bf3b74fb31f2e610cf4c18b831bd7abfb6da",
+  "changelog": "Design premium na aba Jogos do Dia: cards com vidro, gradiente dourado/teal, VS estilizado, botões com gradient, layout otimizado para celular.",
+  "notes": "Cores NexusAccent/NexusAccentSecondary no lugar do verde, cards com borda sutil, header com gradient, pill options, legenda com dots coloridos."
 }
