@@ -3,7 +3,7 @@
   "versionCode": 106,
   "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.95.apk",
   "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.95.apk",
-  "sha256": "2bf588ab3acdc16c0b0945b7620a7482ad8e079950dd3a0d619ba5103657e880",
+  "sha256": "3b3ea5093f2f1d143467b2fcc5259fa47f9e3f89862e653baa65b467cd5fecf4",
   "changelog": "Fix Tela cheia no celular (fullscreen caía no layout TV); TV ao vivo redesign phone: mini player 180dp, info compacta, lista vertical empilhada.",
   "notes": "RailScaffold corrigido: showRail=false no phone agora renderiza fullscreen sem bottom bar. LiveBrowsePane: layout vertical no phone (player+info+chips+lista)."
 }
