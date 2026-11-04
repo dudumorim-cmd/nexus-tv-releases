@@ -1,9 +1,9 @@
 {
-  "versionName": "2.97",
-  "versionCode": 108,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.97.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.97.apk",
-  "sha256": "7cf7bf62cd4734bf79063503c1efd3cb1aee46b0fefd6dc120406c228672a274",
-  "changelog": "Guia de jogos completo: ESPN ao vivo, detalhes, escalacao, estatisticas, classificacao. Canais UniTV linkados; correção ANR.",
-  "notes": "Corrigido ANR na thread principal (matching de canais em background); removida lista Eppi velha; OkHttp dispatcher ampliado; tela de detalhes com countdown, vídeo, tabs e alarmes."
+  "versionName": "2.98",
+  "versionCode": 109,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.98.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.98.apk",
+  "sha256": "268a317101ac9f887bda465e0aaab421dd93fc05e16633d9633e8f70b269b15f",
+  "changelog": "Novo visual premium: verde Nexus, foco mais visivel na TV, menu lateral e barra do celular redesenhados, notas em dourado.",
+  "notes": "Redesign 2.98: paleta nova (fundo azul-escuro, acento verde #00E5A0), foco verde em todas as listas e cards, botao principal verde, rail com item ativo destacado, bottom bar com indicador em pilula."
 }
