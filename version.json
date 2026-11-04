@@ -1,9 +1,9 @@
 {
-  "versionName": "2.96",
-  "versionCode": 107,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.96.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.96.apk",
-  "sha256": "9085fd1e23e873d2588c07191b3756620eb631bd846d44b27ca1a7392fa97bfd",
-  "changelog": "Jogos do Dia: lista de hoje da UniTV, buscada na hora; canais adultos da UniTV (com PIN).",
-  "notes": "SportsGuidePane busca a categoria de jogos pelo nome direto do servidor (UniTV primeiro, Eppi de reserva) e agrupa as opcoes 1-4. Servidor le Jogos do Dia e categorias adultas do painel UniTV ao vivo."
+  "versionName": "2.97",
+  "versionCode": 108,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.97.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.97.apk",
+  "sha256": "7cf7bf62cd4734bf79063503c1efd3cb1aee46b0fefd6dc120406c228672a274",
+  "changelog": "Guia de jogos completo: ESPN ao vivo, detalhes, escalacao, estatisticas, classificacao. Canais UniTV linkados; correção ANR.",
+  "notes": "Corrigido ANR na thread principal (matching de canais em background); removida lista Eppi velha; OkHttp dispatcher ampliado; tela de detalhes com countdown, vídeo, tabs e alarmes."
 }
