@@ -1,9 +1,9 @@
 {
-  "versionName": "3.00",
-  "versionCode": 111,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-3.00.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-3.00.apk",
-  "sha256": "4158101e38f8dc3bf2c92039180f5ed4c8578a2e4cabb971db40003c81cf8c39",
-  "changelog": "Correção dual-DB, remoção aba BTV, painel de incidentes, fix OOM BTV9, configurações na barra.",
-  "notes": "v3.00: Roteamento catalogDb corrigido, aba BTV removida, histórico de falhas/congelamentos no admin, buffer reduzido no BTV9, configurações acessíveis na barra inferior."
+  "versionName": "3.01",
+  "versionCode": 112,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-3.01.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-3.01.apk",
+  "sha256": "5f68f9fb1e5e5a5f0759d9536ddbb22ccb5dc37e9fe155574b809a71ee89f1a3",
+  "changelog": "Remoção da aba Evo do app e player web.",
+  "notes": "v3.01: Aba Evo removida — canais Evo continuam visíveis em Todos."
 }
