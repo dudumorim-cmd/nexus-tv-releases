@@ -1,9 +1,9 @@
 {
-  "versionName": "3.02",
-  "versionCode": 113,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-3.02.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-3.02.apk",
-  "sha256": "3d5cc64f8a6c67b730580699fccb4b5ca349274c45d5a1af9b4dacb8b72dfbfb",
-  "changelog": "Anti-ANR: largeHeap, cache de imagens otimizado, catálogo via arquivo temporário em vez de memória.",
-  "notes": "v3.02: Corrige travamento (ANR) em boxes com pouca RAM (BTV9); Settings na barra inferior; remove aba Evo."
+  "versionName": "3.03",
+  "versionCode": 114,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-3.03.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-3.03.apk",
+  "sha256": "1ca0935e89916d6ec34c35c4f74c5ae2565eb7a9a835f7aa2a500bbda2330a10",
+  "changelog": "Aba Nexus: todos os canais unificados por categoria, cada canal com todas as linhas; se uma linha falha, troca sozinho para a próxima.",
+  "notes": "v3.03: Lista única Nexus (Eppi + UniTV + BTV juntos), categorias organizadas, troca automática de linha, favoritos preservados."
 }
