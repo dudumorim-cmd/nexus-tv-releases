@@ -1,9 +1,9 @@
 {
-  "versionName": "2.99",
-  "versionCode": 110,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.99.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-2.99.apk",
-  "sha256": "f9c68688a39d3b91d0c34382d391cee7158db5504810f813e2ecf3fc1914f44a",
-  "changelog": "Conexão direta ao Supabase — elimina bloqueio do Vercel Security Checkpoint.",
-  "notes": "v2.99: API agora conecta direto ao Supabase Edge Function, bypassando o firewall do Vercel que bloqueava os canais."
+  "versionName": "3.00",
+  "versionCode": 111,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-3.00.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-3.00.apk",
+  "sha256": "4158101e38f8dc3bf2c92039180f5ed4c8578a2e4cabb971db40003c81cf8c39",
+  "changelog": "Correção dual-DB, remoção aba BTV, painel de incidentes, fix OOM BTV9, configurações na barra.",
+  "notes": "v3.00: Roteamento catalogDb corrigido, aba BTV removida, histórico de falhas/congelamentos no admin, buffer reduzido no BTV9, configurações acessíveis na barra inferior."
 }
