@@ -1,9 +1,9 @@
 {
-  "versionName": "3.03",
-  "versionCode": 114,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-3.03.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-3.03.apk",
-  "sha256": "1ca0935e89916d6ec34c35c4f74c5ae2565eb7a9a835f7aa2a500bbda2330a10",
-  "changelog": "Aba Nexus: todos os canais unificados por categoria, cada canal com todas as linhas; se uma linha falha, troca sozinho para a próxima.",
-  "notes": "v3.03: Lista única Nexus (Eppi + UniTV + BTV juntos), categorias organizadas, troca automática de linha, favoritos preservados."
+  "versionName": "3.04",
+  "versionCode": 115,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-3.04.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-3.04.apk",
+  "sha256": "6b89813b3e38f7f1e8861ac270395b2896bb10e91d538b105fdb9829bb4e1cf9",
+  "changelog": "Aba Jogos nova: visual premium nas cores do app, funciona no celular (em pé e deitado) e na TV; toque no vídeo para escolher o canal.",
+  "notes": "v3.04: Aba Jogos redesenhada (celular + TV box), canais do jogo atualizados automaticamente."
 }
