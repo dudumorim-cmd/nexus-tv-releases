@@ -1,9 +1,9 @@
 {
-  "versionName": "3.05",
-  "versionCode": 116,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-3.05.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-3.05.apk",
-  "sha256": "9ee6f634817a6c6698da2a68230adbfaeb43f23bb36f1f3615d61c5f28296a12",
-  "changelog": "Catch-up Ranger: programação anterior nos canais UniTV via proxy local no box.",
-  "notes": "v3.05: Catch-up Ranger integrado (UniTV), aba Jogos redesenhada."
+  "versionName": "3.06",
+  "versionCode": 117,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-3.06.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-3.06.apk",
+  "sha256": "eb6696335cb3a225dc4ed1591f772444576556e45f8809ad7cbec5faa6f6dae7",
+  "changelog": "Correção: categorias Nexus, EPG e Playback não apareciam (refresh forçado após bundled).",
+  "notes": "v3.06: Fix categorias/EPG/Playback — o catálogo agora atualiza do servidor na primeira abertura."
 }
