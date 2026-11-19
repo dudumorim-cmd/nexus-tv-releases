@@ -1,9 +1,9 @@
 {
-  "versionName": "3.09",
-  "versionCode": 120,
-  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-3.09.apk",
-  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-3.09.apk",
-  "sha256": "f4ebc3bd994a5ca9d0464da1b30d28762d4d2a795c8a5b8b5c5881841d18c7ac",
-  "changelog": "Categorias reorganizadas, canais UniTV com relay por canal, correções de estabilidade.",
-  "notes": "v3.09: categorias Nexus unificadas, suporte a GazetaHD no relay, correção de categoria Playback."
+  "versionName": "3.10",
+  "versionCode": 121,
+  "apkUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-3.10.apk",
+  "directUrl": "https://raw.githubusercontent.com/dudumorim-cmd/nexus-tv-releases/main/nexus-tv-3.10.apk",
+  "sha256": "e2689786670418818b0de213365a34e2ef3b09548833d13081e65de012274577",
+  "changelog": "Cache de canais renovado, corrige imagem errada ao navegar nos canais.",
+  "notes": "v3.10: banco Room v4 (re-download automático de todos os canais), corrige ícone errado ao clicar em canal."
 }
